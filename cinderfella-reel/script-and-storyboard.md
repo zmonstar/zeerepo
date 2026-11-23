@@ -81,5 +81,27 @@ The AWARE logo ("aware / FOR EQUALITY") fades in to close.
 
 ---
 
+## 3. Final cut (as delivered)
+
+The final video is `cinderfella-aware-reel.mp4` (1080 × 1920, H.264 at 30 fps with AAC audio, 46 s). Scene timings were stretched to follow the generated score: it swells at the magic, pauses at midnight and lifts for the finale.
+
+| Scene | Time | Transition out |
+|-------|------|----------------|
+| Title | 0:00 to 0:04.5 | Cross-fade |
+| 1. The hearth | 0:04.5 to 0:09.5 | Cross-fade |
+| 2. The invitation | 0:09.5 to 0:13.5 | Cross-blur into the magic |
+| 3. The fairy godmother | 0:13.5 to 0:18.5 | Cross-fade |
+| 4. The ball | 0:18.5 to 0:24.5 | Cross-fade |
+| 5. Midnight | 0:24.5 to 0:28.5 | Cross-fade |
+| 6. The slipper fits | 0:28.5 to 0:33 | Cross-fade |
+| 7. Celebration | 0:33 to 0:38.5 | Fade to white |
+| CTA and logo | 0:38.5 to 0:46 | Ends with the music fade-out |
+
+**Sound:** an orchestral score (music box, cello, a waltz, then a triumphant finish) plays throughout. The sound effects are paper tearing with rain (0:09.6), a magic shimmer (0:13.7), clock bells with footsteps (0:24.6) and a cheering crowd with bells (0:33.3).
+
+**Made with:** keyframes from Google Nano Banana 2 (scene 1) and Nano Banana 2 Lite Edit (scenes 2 to 7, with scene 1 as the character reference); music from MiniMax Music 2.0; sound effects from ElevenLabs Sound Effects v2; editing and rendering in IMG.LY CoDesign (CE.SDK). The keyframes are in `storyboard/`.
+
+---
+
 ### Sources
 AWARE. (n.d.). *A society where there is true gender equality*. Association of Women for Action and Research. https://aware.org.sg/
